@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![Screenshot](https://github.com/jossias/-Frontend-Mentor-QR-code-component/blob/[branch]/image.jpg?raw=true)
+![Screenshot](https://github.com/jossias/-Frontend-Mentor-QR-code-component/tree/main/Screenshot.png?raw=true)
 
 ### Links
 

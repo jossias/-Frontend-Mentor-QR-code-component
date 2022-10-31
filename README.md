@@ -61,7 +61,7 @@ Acredito que este foi um passo para melhorar as
 ### Useful resources
 
 - [Resource 1](https://www.css-tricks.com/snippets/css/a-guide-to-flexbox/) - Boa explicacao de como usar o Flexbox layout.
-- [Resource 2] (https://www.youtube.com/watch?v=yECsm5B2_Hg) - Posicionamento do layout.
+- [Resource 2](https://www.youtube.com/watch?v=yECsm5B2_Hg) - Posicionamento do layout.
 
 ## Author
 

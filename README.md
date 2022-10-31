@@ -37,13 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 body{
 	height: 100vh;
@@ -53,15 +46,12 @@ body{
 	justify-content: center;
 	flex-direction: column;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+
+#container img {
+	width: 100%;
+	border-radius: 10px;
 }
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 
 ### Continued development
 
@@ -71,7 +61,7 @@ Acredito que este foi um passo para melhorar as
 ### Useful resources
 
 - [Resource 1](https://www.css-tricks.com/snippets/css/a-guide-to-flexbox/) - Boa explicacao de como usar o Flexbox layout.
-- [Resource 2] https://www.youtube.com/watch?v=yECsm5B2_Hg - Posicionamento do layout.
+- [Resource 2] (https://www.youtube.com/watch?v=yECsm5B2_Hg) - Posicionamento do layout.
 
 ## Author
 

@@ -19,7 +19,7 @@ body{
 
 #container {
 	background: hsl(0, 0%, 100%);
-	width: 300px;
+	max-width: 360px;
 	padding: 17px;
 	text-align: center;
 	border-radius: 15px;
